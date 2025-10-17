@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Honest Blue Candies",
+    "name": "SCC Inventory",
     "slug": "inventory-memo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -26,7 +26,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "YOUR-PROJECT-ID-HERE"
+        "projectId": "a90cadf9-7968-452f-a95d-a8f834c9cdcd"
       }
     },
     "cli": {
